@@ -1,0 +1,4 @@
+repository "vase@wechat_os_qy0_qperzwimyndwzq5znjjlw@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"

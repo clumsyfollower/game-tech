@@ -1,0 +1,20 @@
+﻿// See https://aka.ms/new-console-template for more information
+Console.WriteLine("Hello, World!");
+int age = 20;
+int hp = 60;
+string name = "siki";
+Console.WriteLine(age);
+//Console.ReadKey();
+byte myByte = 34;
+int score = 6000;
+long count = 100000000;
+Console.WriteLine("byte:{0} int:{1} long:{2}", myByte, score, count);
+float myFloat = 12.5f;
+double myDouble = 12.5;
+Console.ReadKey();
+Char myChar = 'a';
+string myString = "a";
+string myString2 = "";
+bool myBool = true;
+Console.WriteLine("char:{0} string1:{1} string2:{2} bool:{3}",myChar, myString,myString2,myBool);
+Console.ReadKey();
